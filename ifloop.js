@@ -5,6 +5,6 @@ function islegal(age){
     console.log("Not Eligible to vote")}
 }
 
-for (let i=0;i<=49;i++){
+for (let i=0;i<=50;i++){
     islegal(i)
     }
