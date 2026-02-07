@@ -17,7 +17,7 @@ var user1=[{
                          age:39,
                          address:{
                                      city:"Banglore",
-                                     District:"banglore North"
+                                     District:"Banglore North"
                          }
           }];
 for (var i=0;i<2;i++){
